@@ -29,3 +29,9 @@
 - Link: https://assetstore.unity.com/packages/3d/characters/free-mummy-monster-134212
 - 3D Asset: Shanshel, 3D GUNS | Guns Pack
 - Link: https://assetstore.unity.com/packages/3d/props/weapons/3d-guns-guns-pack-228975#content
+- SFX Asset: Pixabay, 1911 Reload
+- Link: https://pixabay.com/sound-effects/1911-reload-6248/
+- SFX Asset: Pixabay, AssaultRifle2
+- Link: https://pixabay.com/sound-effects/assaultrifle2-47258/
+- SFX Asset: Pixabay, Single Gunshot 6.2 HP
+- Link: https://pixabay.com/sound-effects/single-gunshot-62-hp-37188/
