@@ -27,4 +27,10 @@ public class HealthPlayer : HealthBase
             initHealth -= 1;
         }
     }
+
+    public override void Die()
+    {
+        base.Die();
+        Application.Quit();
+    }
 }
