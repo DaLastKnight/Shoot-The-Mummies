@@ -1,5 +1,5 @@
 # ShootTheMummies!
- A simple 3D FPS game 
+ A simple 3D FPS game made in Unity
 
  # IMPORTANT! How to play:
  - WASD for movement
