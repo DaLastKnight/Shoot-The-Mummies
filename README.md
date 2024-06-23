@@ -19,8 +19,6 @@
  - When player lands on a surface that is horizontal, player is not able to jump and instead has to fall onto the floor to jump again
 
  # Credits
-- Music Asset: Kevin Macloed, TBD
-- Link: 
 - Art Asset: Kenney, Emotes Pack
 - Link: https://kenney.nl/assets/emotes-pack
 - Art Asset: Kenney, Crosshair Pack
