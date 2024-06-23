@@ -9,14 +9,14 @@
  - Don't die and defeat the mummies!
  
  ## About
- My very first project that got me in-depth into the aspects of 3D games. It was difficult, yet very rewarding
+ My very first project that got me in-depth into the aspects of 3D games. It was difficult learning what rendering pipelines and navmeshes are, but the knowledge I had gained feels very rewarding.
 
  ## Objective of project
  - A 3D game that has basic movement and weapon mechanics
  - Get a feel for how the Unity engine works
  
  ## Known bugs
- - When player lands on a surface that is horizontal, player is not able to jump and instead has to fall onto the floor to jump again
+ - When the player lands on another surface besides the floor, the player is not able to jump again and instead has to fall onto the floor to fix it
 
  # Credits
 - Art Asset: Kenney, Emotes Pack
